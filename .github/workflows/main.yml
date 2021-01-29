@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp://test.fethiyeotoguven.com/
         username: demoaccount
-        password: ${{ secrets.ftp_password }}
+        password: 9&Ke3w3j
